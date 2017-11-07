@@ -8,5 +8,5 @@ Happy Learning :)
 
 Some original sources for my study guide:
 1. [link](https://www.youtube.com/watch?v=gTpX4tZkYkw) to very good overview of all pieces involved in the exam 
-2. [link](https://channel9.msdn.com/Blogs/mcpexamprep/70-532-Developing-Microsoft-Azure-Solutions) Some overlap with #1 but includes more topics relevant to exam 70-532
+2. [link](https://channel9.msdn.com/Blogs/mcpexamprep/70-532-Developing-Microsoft-Azure-Solutions) includes additional topics relevant to exam 70-532; please know that some of the content does overlap with #1 above.
 
