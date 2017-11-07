@@ -6,6 +6,7 @@ Originally, I took my notes in OneNote and I have exported the content in two fo
 Happy Learning :)
 
 
-### Please note, 
-this study guide is a combination of my own interpretation and informative material that I found in blogs/videos/Articles.  
+Some original sources for my study guide:
+1. [link](https://www.youtube.com/watch?v=gTpX4tZkYkw) to very good overview of all pieces involved in the exam 
+2. [link](https://channel9.msdn.com/Blogs/mcpexamprep/70-532-Developing-Microsoft-Azure-Solutions) Some overlap with #1 but includes more topics relevant to exam 70-532
 
